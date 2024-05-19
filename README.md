@@ -16,6 +16,9 @@ This template equips you with a foundational React application integrated with A
 
 For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
 
+## Sample deployed AWS Amplify Application
+https://main.dkbcbqroukjv6.amplifyapp.com/
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
